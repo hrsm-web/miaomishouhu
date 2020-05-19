@@ -1,26 +1,13 @@
 ---
 layout: category-post
-title:  "Welcome to Jekyll!"
-date:   2016-08-05 20:20:56 -0400
+title: 《蜘蛛侠》影片简介
+date: '2016-08-05 20:20:56 -0400'
 categories: writing
+
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-```
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+       
+![2020-05-02-872698.jpg](https://hrsm-web.github.io/miaomishouhu/assets/2020-05-02-872698.jpg)
+上一个故事结束的时候，代表正义的英雄爽了，观众乐了，所以想继续一个新的故事、新的篇章，“蜘蛛侠”就得重新遭受折磨、面对考验。感觉就像是一个经典的故事桥段：你得到了超能力，一切事情看起来都OK，你得到了心爱的女人，人人都喜欢你，你变成一个人人敬爱的英雄，所以，你还对什么感到不满意呢？于是，我们的英雄在顺流中迷失了自我。
+　　彼得·帕克在第一集《蜘蛛侠》中留下了一个无法解开的痛苦心结，因为他放走了抢钱的小偷，间接造成了叔叔本的死亡，潜意识里，彼得觉得自己就是小偷的帮凶……于是，当他再次抓到那个小偷的时候，竟然残忍地眼睁睁地看着他从窗户掉下去摔死，却发现自己惩罚错了人。在第三集中如鱼得水的彼得·帕克反倒变得目中无人，当他知道杀死自己叔叔的真凶其实是“沙人”之后，以一种残酷的方式杀死了他，从此刻起，彼得内心的阴暗面开始反客为主，他成了“邪恶”最完美的寄主，这种“邪恶”最终演变成了毒蜘蛛衣。彼得·帕克的道德准则越来越模糊，然而他自己是无法查觉这其中的变化的，他能够将蜘蛛网射得更远，能跑得更快，跳得更高，他变得更加有力量，却也越来越轻率。
+　　每一集中，彼得·帕克都会学会一个“教训”，本集中就是：我们都是罪人，没有真正的对错之分。
 
